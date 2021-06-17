@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, DIRECTV
+https://e3.cdnfoxtv.com/ingest03/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=EepxDmwch5zuOqVxVKmZsg&expires=1623968134&rnd=
+
+#EXTINF_-1, DIRECTV II
+<script type='text/javascript'> width='100%', height='100%', id='directvsports';</script><script type='text/javascript' src='https://www.ver-deportes.online/embed.js'></script>
